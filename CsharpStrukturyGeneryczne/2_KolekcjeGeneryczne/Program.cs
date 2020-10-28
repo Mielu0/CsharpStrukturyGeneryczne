@@ -9,7 +9,7 @@ namespace _2_KolekcjeGeneryczne
     class Program
     {
         static void Main(string[] args)
-        {
+        {           
         }
     }
 }
